@@ -34,9 +34,12 @@ Here are some ideas to get you started:
 #### Portfolio 
 |Content|Link|
 |---|---|
-|**0. Repository**|[<img height="30" src="https://skillicons.dev/icons?i=github"/>](https://github.com/yw7148/portfolio)|
+|**Repository**|[<img height="30" src="https://skillicons.dev/icons?i=github"/>](https://github.com/yw7148/portfolio)|
+|**Server Config**|[<img height="30" src="https://skillicons.dev/icons?i=github,docker,nginx,jenkins"/>](https://github.com/yw7148/server)|
+|**Webpage**|[Youngwon.me](http://youngwon.me)|
+|**CV page**|[Youngwon.me_cv](http://youngwon.me/portfolio/cv)|
 
 #### Danjinae (Backend) 
 |Content|Link|
 |---|---|
-|**0. Repository**|[<img height="30" src="https://skillicons.dev/icons?i=github"/>](https://github.com/yw7148/Danjinae_Backend)|
+|**Repository**|[<img height="30" src="https://skillicons.dev/icons?i=github"/>](https://github.com/yw7148/Danjinae_Backend)|
