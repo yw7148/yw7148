@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 |Content|Link|
 |---|---|
 |**Repository**|[<img height="30" src="https://skillicons.dev/icons?i=github"/>](https://github.com/yw7148/portfolio)|
-|**Server Config**|[<img height="30" src="https://skillicons.dev/icons?i=github,docker,nginx,jenkins"/>](https://github.com/yw7148/server)|
+|**Server Config Repository**|[<img height="30" src="https://skillicons.dev/icons?i=github"/>](https://github.com/yw7148/server)|
 |**Webpage**|[Youngwon.me](http://youngwon.me)|
 |**CV page**|[Youngwon.me_cv](http://youngwon.me/portfolio/cv)|
 
